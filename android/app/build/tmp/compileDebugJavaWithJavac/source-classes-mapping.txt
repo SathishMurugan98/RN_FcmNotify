@@ -1,0 +1,14 @@
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/fcmnotify/BuildConfig.java
+ com.fcmnotify.BuildConfig
+com/fcmnotify/MainActivity.java
+ com.fcmnotify.MainActivity
+com/fcmnotify/ReactNativeFlipper.java
+ com.fcmnotify.ReactNativeFlipper
+ com.fcmnotify.ReactNativeFlipper$1
+ com.fcmnotify.ReactNativeFlipper$2
+ com.fcmnotify.ReactNativeFlipper$2$1
+com/fcmnotify/MainApplication.java
+ com.fcmnotify.MainApplication
+ com.fcmnotify.MainApplication$1
